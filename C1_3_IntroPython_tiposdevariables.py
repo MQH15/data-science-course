@@ -2,7 +2,7 @@
 """
 Aquí se explican los principales tipos de variables 
 
-@author: manugarri
+@author: MQH15
 """
 #%%
 """
